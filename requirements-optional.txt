@@ -1,0 +1,3 @@
+# Optional extra model. Install with:  pip install -r requirements-optional.txt
+# On macOS, XGBoost also needs the OpenMP runtime:  brew install libomp
+xgboost>=2.0

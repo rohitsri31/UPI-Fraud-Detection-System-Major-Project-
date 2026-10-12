@@ -1,0 +1,23 @@
+body {
+  background: #ffffff;
+  color: #1a1a1a;
+}
+
+.stat {
+  border-color: #dee2e6;
+}
+
+.stat-label {
+  font-size: 0.8rem;
+  color: #6c757d;
+}
+
+.stat-value {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+#txn-body td {
+  vertical-align: middle;
+}
